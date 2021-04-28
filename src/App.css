@@ -1,5 +1,7 @@
 .App {
     text-align: center;
+    color: white;
+    background-color: black;
 }
 
 h1 {
@@ -11,16 +13,6 @@ h1 {
     padding: 20px;
 }
 
-.searh-container {
-    display: flex;
-    justify-content: center;
-}
-
-.Search {
-    width: 200px;
-    margin-bottom: 20px;
-}
-
 
 .card-container {
     display: flex;
@@ -30,12 +22,25 @@ h1 {
 }
 
 .Card {
-    color: rgb(0, 110, 255);
-    font-size: 10px;
-    min-width: 150px;
-    max-width: 300px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    height: 450px;
+    padding: 30px;
+    background-color: rgb(196, 196, 196);
+}
+
+.card-title {
+    font-size: 25px;
+}
+
+.card-img-top {
+    height: 300px;
+}
+
+.card-body {
+    background-color: rgb(255, 255, 255);
 }
 
 .Card:hover {
-    color: red;
+    color: rgb(16, 157, 175);
 }
