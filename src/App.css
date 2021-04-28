@@ -1,0 +1,41 @@
+.App {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+.Title {
+    text-align: center;
+    padding: 20px;
+}
+
+.searh-container {
+    display: flex;
+    justify-content: center;
+}
+
+.Search {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Card {
+    color: rgb(0, 110, 255);
+    font-size: 10px;
+    min-width: 150px;
+    max-width: 300px;
+}
+
+.Card:hover {
+    color: red;
+}
