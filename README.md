@@ -14,5 +14,3 @@ This is a personal project of my first React application.
 
 ### Contributions
 - Jason Rivera
-
-alskdjflaksjef lkaejf
