@@ -9,4 +9,5 @@ Technologies
 Contributions
 - Jason Rivera
 
-https://gph.is/g/aNxynlo
+
+<img align="left" alt="CSS3" width="30px" src="https://gph.is/g/aNxynlo"/>
