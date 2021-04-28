@@ -9,5 +9,4 @@ Technologies
 Contributions
 - Jason Rivera
 
-
-<img align="left" alt="CSS3" width="30px" src="https://gph.is/g/aNxynlo.gif"/>
+![Alt Text](https://gph.is/g/aNxynlo.gif)
